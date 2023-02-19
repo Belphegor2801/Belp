@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "684929320335",
+    "project_id": "belp-b164e",
+    "storage_bucket": "belp-b164e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684929320335:android:dcf7d9ffb66bd9d45037fa",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684929320335-b5dr0uq3gih41d7j4boidlrvoiv4hfpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_media_app",
+            "certificate_hash": "c023c4763d93edf37c50df4d6236482b4918d63e"
+          }
+        },
+        {
+          "client_id": "684929320335-c0na7ek3db4grm21ffmcumlh2r7p114f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtQ5uq3DPy6etXIRtmwoJ3qPXjQBWtL5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684929320335-c0na7ek3db4grm21ffmcumlh2r7p114f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684929320335-en71a1ibnqdnr0vg67sd1l2ul7q8ebpr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.belp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684929320335:android:de5fbab425c16c4d5037fa",
+        "android_client_info": {
+          "package_name": "com.hinh.belp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684929320335-b2k3mi6jdl2lmjr0ed0v0pks6qcga6nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hinh.belp",
+            "certificate_hash": "c023c4763d93edf37c50df4d6236482b4918d63e"
+          }
+        },
+        {
+          "client_id": "684929320335-c0na7ek3db4grm21ffmcumlh2r7p114f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtQ5uq3DPy6etXIRtmwoJ3qPXjQBWtL5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684929320335-c0na7ek3db4grm21ffmcumlh2r7p114f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684929320335-en71a1ibnqdnr0vg67sd1l2ul7q8ebpr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.belp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
